@@ -48,6 +48,7 @@ About Us
 
 Symfony development is sponsored by [SensioLabs][21], led by the
 [Symfony Core Team][22] and supported by [Symfony contributors][19].
+SymfonyCon2018 hackday Silviu Popescu
 
 [1]: https://symfony.com
 [2]: https://symfony.com/projects
